@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Josefin+Sans:ital,wght@1,500&family=Meow+Script&family=Pacifico&family=Patua+One&family=Puppies+Play&family=Sawarabi+Gothic&family=Spline+Sans:wght@300&family=Vujahday+Script&display=swap');
+#top{
+    text-align: 1px;
+    width: 1349px;
+    height: 53px;
+    background-color: #b85217;
+    position: fixed;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 27px;
+
+    
+}
+    a{
+
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Fjalla One', sans-serif;  
+    margin: 62px;
+}
+#club{
+    width: 100%;
+    height: 600px;
+}
+#image{
+    font-family: 'Meow Script', cursive;
+    color: whitesmoke;
+    
+}
+h1{
+    margin-left: 414px;
+    margin-top: -431px;
+    font-size: 100px;
+}
+h2{
+    margin-left: 428px;
+    margin-top: -111px;
+    font-size: 100px;   
+}
+h3{
+    margin-left: 477px;
+    margin-top: -101px;
+    font-size: 100px;
+}
+button{
+    border: whitesmoke solid 2px;
+margin-left: 514px;
+margin-top: -100px;
+height: 34px;
+border-radius: 50px;
+background-color: transparent;
+color: whitesmoke;
+font-family: 'Josefin Sans', sans-serif;
+border-width: medium;
+}
+#image2{
+    width: 100%;
+    height: 642px;
+    margin-top: 10px;
+}
+#box2head{
+    font-family: 'Waterfall', cursive;
+    margin-left: 436px;
+    margin-top: -552px;
+    font-size: xx-large;
+}
+h4{
+    font-family: 'Indie Flower', cursive;
+    font-size: large;
+}
+#lore{
+    width: 324px;
+    height: 300px;
+    background-color: black;
+    margin-left: 390px;
+    margin-top: 43px;
+}
+#box2butt{
+    border: black solid 2px;
+    margin-left: 88px;
+    margin-top: -100px;
+    height: 34px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    border-width: medium;
+}
+#main{
+    width: 100%;
+    height: 200px;
+    border: whitesmoke solid 2px;
+    margin-top: 172px;
+
+}
+#main1{
+    width: 24%;
+    height: 200px;
+    border: whitesmoke solid 2px;
+    float: left;
+    
+}
+#mainimage{
+    width: 357px;
+    height: 313px;
+    
+}
+#menu{
+    width: 56%;
+    height: 598px;
+    background-color: #fff1db;
+    margin-top: 122px;
+    margin-left: 278px;
+}
+h5{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: x-large;
+
+    padding-top: 50px;
+}
+label{
+margin-left: 95px;
+font-family: 'Indie Flower', cursive;
+font-size: large;
+}
+#iced{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 4px;
+    margin-top: -0px;
+}
+#label1{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+margin-left: 5px;
+}
+#price1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 684px;
+    margin-top: -33px;
+}
+#price2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 684px;
+    margin-top: -95px;
+}
+#price3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 684px;
+    margin-top: -33px;
+}
+#label2{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+margin-left: 5px;
+}
+#label3{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+margin-left: 5px;
+}
+#iced3{
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 4px;
+    margin-top: 69px;
+}
+#iced4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    margin-left: 4px;
+    margin-top: 7px;
+}
+#footer{
+    padding: 0px;
+    width: 80%;
+    height: 209px;
+    margin-top: -114px;
+    margin-left: 125px;
+    background-color: darkgrey;
+}
+#footer1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    margin-top: 120px;
+    margin-left: 182px;
+    padding-top: 54px;
+}
+#footer3{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+color: black;
+margin-left: 189px;
+}
+#footer2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    margin-top: -163px;
+    margin-left: 405px;
+    padding-top: 54px;
+}
+#number{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+color: black;
+margin-left: 408px;
+margin-top: 120px;
+padding-top: 100px;
+}
+#footer4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    margin-top: -163px;
+    margin-left: 679px;
+    padding-top: 81px;
+}
+#number1{
+    font-family: 'Indie Flower', cursive;
+font-size: small;
+color: black;
+margin-left: 684px;
+margin-top: 120px;
+padding-top: 100px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+    div h3{
+        color: white;
+text-align: left;
+}
+img{
+    width: 74%;
+}
+div label{
+    color: white;
+}
+div{
+    float: left;
+    width: 17%;
+    padding: 15px;
+
+}
+p{
+    color: white;
+}
+button{
+    background-color: yellow;
+    color: black;
+}
+#f9
+{
+    width: 200px;
+    
+}

@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&family=Patua+One&family=Puppies+Play&family=Vujahday+Script&display=swap');
+div{
+    
+
+}
+h1{
+
+    font-family: 'Puppies Play', cursive;
+    margin-top: -453px;
+    margin-left: 463px;
+    font-size: 130px;
+    color: whitesmoke;
+    
+}
+#second{
+    font-family: 'Puppies Play', cursive;
+    margin-top: -122px;
+    margin-left: 458px;
+    font-size: 130px;
+}
+#third{
+    font-family: 'Puppies Play', cursive;
+    margin-top: -141px;
+    margin-left: 466px;
+    font-size: 130px;
+}
+button{
+    margin-left: 483px;
+    color: whitesmoke;
+    background-color: transparent;
+    border-radius: 56px;
+    margin-top: -500px;
+    border: white solid 2px;
+    font-size: xx-small;
+    
+}
+h2{
+    font-family: 'Sawarabi Gothic', sans-serif;
+
+}

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Mulish:wght@700&display=swap');
+.carousel-caption {
+    top: 66px;
+    bottom: auto;
+    text-align: start;
+}
+.button-default {
+background:  #5e068a repeat scroll 0 0;
+    color: #ffffff;
+    display: inline-block;
+border-radius: 10px;
+font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+font-size: large;}
+h1{
+color:#5e068a  ;
+}
+h2{
+    color: #5e068a99;
+}
+.girl{
+    height: 380px;
+    margin-left: 155px;
+}
+.lin{
+
+    text-decoration: underline;
+    margin-top: -40px;
+    margin-left: 610px;
+    color: #5e068a;
+    font-size: 14px;
+}
+p{
+    font-family: 'Mulish', sans-serif;
+    color: #414141;
+    
+}
+.button1{
+margin-left: 100px;
+padding: 8px;
+background-color: #5e068a;
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 14px;
+}
+.col-4{
+    width: 19.5rem;
+    box-shadow: 4px 4px 4px gray;
+    height: 420px;
+}
+
+#ha{
+    width: 30.5rem;
+    box-shadow: 4px 4px 4px gray;
+    height: 300px;
+}
+#image{
+    height: 300px;
+    width: 500px;
+}
